@@ -84,7 +84,8 @@ export default function ImpactMetrics() {
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
           style={{ textAlign: "center", marginBottom: "64px" }}
-        >
+        > 
+        //jnmgiyguttu
           <p style={{ fontSize: "12px", color: "#D946EF", textTransform: "uppercase", letterSpacing: "0.1em", fontWeight: 600, marginBottom: "12px" }}>
             Impact
           </p>
